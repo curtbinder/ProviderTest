@@ -17,7 +17,7 @@ In short, you must:
 * close the cursor
 
 The columns in the database that you have access to inside the cursor are as follows:
-
+```
 public static final String PCOL_ID = "_id";
 public static final String PCOL_T1 = "t1";
 public static final String PCOL_T2 = "t2";
@@ -88,6 +88,7 @@ public static final String PCOL_EM = "em";
 public static final String PCOL_REM = "rem";
 public static final String PCOL_PHE = "phe";
 public static final String PCOL_WL = "wl";
+```
 
 You can copy this text to your application or just use the actual string name for the columns.
 
