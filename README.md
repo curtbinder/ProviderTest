@@ -3,7 +3,9 @@ The information listed is accurate as of Reef Angel Status version 0.8.0.
 
 The app contains comments with how to add permissions to your app for reading the data.
 This must be added to AndroidManifest.xml.
+```
 <uses-permission android:name="info.curtbinder.reefangel.permission.READ_PROVIDER" />
+```
 Look in AndroidManifest.xml for details.
 
 There are comments about accessing and displaying the data.
